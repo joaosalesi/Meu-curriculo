@@ -1,8 +1,7 @@
 # 👋 Olá, eu sou João Phelipe Salesi Alvim
 
 ### 🧠 Sobre mim
-
-Sou uma pessoa curiosa, dedicada e com grande vontade de aprender.  
+ 
 Atualmente curso **Análise e Desenvolvimento de Sistemas** e **Desenvolvimento Full Stack em Python + Análise de Dados em Python pela EBAC**.  
 Busco minha **primeira oportunidade na área de tecnologia** para evoluir na prática e aplicar tudo que venho estudando.
 
