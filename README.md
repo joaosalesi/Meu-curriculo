@@ -16,7 +16,7 @@ Busco minha **primeira oportunidade na área de tecnologia** para evoluir na pr�
 - ⚙️ Lógica de Programação
 - 🧩 Desenvolvimento Web
 - 📊 Análise e Visualização de Dados
-- ☁️ Conceitos de Sistemas e Redes
+- ☁️ Estrutura de Softwers
 
 ---
 
