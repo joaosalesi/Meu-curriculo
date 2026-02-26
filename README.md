@@ -53,7 +53,7 @@ Busco minha **primeira oportunidade na área de tecnologia** para evoluir na pr�
 
 📧 **Email:** salest.alvim@gmail.com  
 📱 **Telefone:** (11) 99278-2033  
-📍 **Localização:** Cotia - SP  
+📍 **Localização:** Alto da Mooca - SP  
 
 ---
 
