@@ -65,4 +65,3 @@ Busco minha **primeira oportunidade na área de tecnologia** para evoluir na pr�
 ---
 
 🧩 **Feito com dedicação por [João Phelipe Salesi Alvim](https://github.com/)**  
-💙 Sempre aprendendo, sempre evoluindo.
