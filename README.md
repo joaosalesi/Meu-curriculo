@@ -1,9 +1,4 @@
 # 👋 Olá, eu sou João Phelipe Salesi Alvim
-###
-
-🎯 **Desenvolvedor em formação | Apaixonado por tecnologia, dados e programação**
-
----
 
 ### 🧠 Sobre mim
 
