@@ -57,10 +57,6 @@ Busco minha **primeira oportunidade na área de tecnologia** para evoluir na pr�
 
 ---
 
-> _“Aprender é o que move minha jornada. Cada código, cada erro e cada acerto me tornam um desenvolvedor melhor.”_
-
----
-
 ### 🚀 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/joão-salesi-34a861383)
