@@ -40,9 +40,6 @@ Busco minha **primeira oportunidade na área de tecnologia** para evoluir na pr�
 🚀 **Desenvolvedor Full Stack em Python — EBAC**  
 📘 *Em andamento*
 
-📊 **Análise de Dados em Python — EBAC**  
-📘 *Em andamento*
-
 ---
 
 ### 🌍 Idiomas
