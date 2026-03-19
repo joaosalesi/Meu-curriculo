@@ -4,7 +4,7 @@
 
 ### 🧠 Sobre mim
 
-Atualmente curso **Análise e Desenvolvimento de Sistemas** e me especializo em **Desenvolvimento Full Stack em Python** e **Análise de Dados pela EBAC**.
+Atualmente curso **Análise e Desenvolvimento de Sistemas**.
 
 Estou em busca da minha **primeira oportunidade na área de tecnologia**, com foco em aprendizado contínuo e evolução prática.
 
@@ -15,10 +15,10 @@ Tenho experiência anterior em áreas como **informática, atendimento e marketi
 
 ---
 
-### 🚀 Tecnologias & Habilidades
+### 🚀 Tecnologias & Habilidades em formação
 
-- 🐍 Python (Full Stack & Data Analysis)
-- 🌐 HTML, CSS e JavaScript (em evolução)
+- 🐍 Python
+- 🌐 HTML, CSS e JavaScript
 - ⚙️ Lógica de Programação
 - 🧩 Desenvolvimento Web
 - 📊 Análise e Visualização de Dados
@@ -47,8 +47,7 @@ Gestão de equipe, controle de processos e uso de planilhas.
 
 ### 🎓 Formação
 
-🎓 **Análise e Desenvolvimento de Sistemas — Estácio** *(em andamento)*  
-🚀 **Full Stack Python — EBAC** *(em andamento)*  
+🎓 **Análise e Desenvolvimento de Sistemas — Estácio** *(em andamento)*    
 
 ---
 
